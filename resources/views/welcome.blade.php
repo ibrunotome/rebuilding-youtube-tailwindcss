@@ -135,6 +135,149 @@
             </a>
         </div>
     </div>
+    <div class="youtube-videos col-span-10 container mx-auto py-6">
+        <div class="font-semibold mx-6">
+            Recommended
+        </div>
+        <div class="grid grid-columns-5 grid-gap-4 mb-6 m-6">
+            <div>
+                <a href="#">
+                    <img src="{{ asset('img/youtube/thumbnail01.jpg') }}"
+                         alt="thumb"
+                         class="mb-1 transition-slow hover:opacity-75">
+                    <div class="text-sm mb-2"><a href="#"
+                                                 class="text-black">PIGGY PIGGY DUDE ON NIGHTMARE MODE!!!</a></div>
+                    <div CLASS="text-sm"><a href="#"
+                                            class="text-grey-dark hover:text-black">DashieGames
+                            <i class="fa fa-check-circle"></i></a></div>
+                    <span class="text-sm text-grey-dark">618K views &middot; 2 days ago</span>
+                </a>
+            </div>
+            <div>
+                <a href="#">
+                    <img src="{{ asset('img/youtube/thumbnail02.jpg') }}"
+                         alt="thumb"
+                         class="mb-1 transition-slow hover:opacity-75">
+                    <div class="text-sm mb-2"><a href="#"
+                                                 class="text-black">PIGGY PIGGY DUDE ON NIGHTMARE MODE!!!</a></div>
+                    <div CLASS="text-sm"><a href="#"
+                                            class="text-grey-dark hover:text-black">DashieGames
+                            <i class="fa fa-check-circle"></i></a></div>
+                    <span class="text-sm text-grey-dark">618K views &middot; 2 days ago</span>
+                </a>
+            </div>
+            <div>
+                <a href="#">
+                    <img src="{{ asset('img/youtube/thumbnail03.jpg') }}"
+                         alt="thumb"
+                         class="mb-1 transition-slow hover:opacity-75">
+                    <div class="text-sm mb-2"><a href="#"
+                                                 class="text-black">PIGGY PIGGY DUDE ON NIGHTMARE MODE!!!</a></div>
+                    <div CLASS="text-sm"><a href="#"
+                                            class="text-grey-dark hover:text-black">DashieGames
+                            <i class="fa fa-check-circle"></i></a></div>
+                    <span class="text-sm text-grey-dark">618K views &middot; 2 days ago</span>
+                </a>
+            </div>
+            <div>
+                <a href="#">
+                    <img src="{{ asset('img/youtube/thumbnail04.jpg') }}"
+                         alt="thumb"
+                         class="mb-1 transition-slow hover:opacity-75">
+                    <div class="text-sm mb-2"><a href="#"
+                                                 class="text-black">PIGGY PIGGY DUDE ON NIGHTMARE MODE!!!</a></div>
+                    <div CLASS="text-sm"><a href="#"
+                                            class="text-grey-dark hover:text-black">DashieGames
+                            <i class="fa fa-check-circle"></i></a></div>
+                    <span class="text-sm text-grey-dark">618K views &middot; 2 days ago</span>
+                </a>
+            </div>
+            <div>
+                <a href="#">
+                    <img src="{{ asset('img/youtube/thumbnail05.jpg') }}"
+                         alt="thumb"
+                         class="mb-1 transition-slow hover:opacity-75">
+                    <div class="text-sm mb-2"><a href="#"
+                                                 class="text-black">PIGGY PIGGY DUDE ON NIGHTMARE MODE!!!</a></div>
+                    <div CLASS="text-sm"><a href="#"
+                                            class="text-grey-dark hover:text-black">DashieGames
+                            <i class="fa fa-check-circle"></i></a></div>
+                    <span class="text-sm text-grey-dark">618K views &middot; 2 days ago</span>
+                </a>
+            </div>
+            <div>
+                <a href="#">
+                    <img src="{{ asset('img/youtube/thumbnail06.jpg') }}"
+                         alt="thumb"
+                         class="mb-1 transition-slow hover:opacity-75">
+                    <div class="text-sm mb-2"><a href="#"
+                                                 class="text-black">PIGGY PIGGY DUDE ON NIGHTMARE MODE!!!</a></div>
+                    <div CLASS="text-sm"><a href="#"
+                                            class="text-grey-dark hover:text-black">DashieGames
+                            <i class="fa fa-check-circle"></i></a></div>
+                    <span class="text-sm text-grey-dark">618K views &middot; 2 days ago</span>
+                </a>
+            </div>
+            <div>
+                <a href="#">
+                    <img src="{{ asset('img/youtube/thumbnail07.jpg') }}"
+                         alt="thumb"
+                         class="mb-1 transition-slow hover:opacity-75">
+                    <div class="text-sm mb-2"><a href="#"
+                                                 class="text-black">PIGGY PIGGY DUDE ON NIGHTMARE MODE!!!</a></div>
+                    <div CLASS="text-sm"><a href="#"
+                                            class="text-grey-dark hover:text-black">DashieGames
+                            <i class="fa fa-check-circle"></i></a></div>
+                    <span class="text-sm text-grey-dark">618K views &middot; 2 days ago</span>
+                </a>
+            </div>
+            <div>
+                <a href="#">
+                    <img src="{{ asset('img/youtube/thumbnail08.jpg') }}"
+                         alt="thumb"
+                         class="mb-1 transition-slow hover:opacity-75">
+                    <div class="text-sm mb-2"><a href="#"
+                                                 class="text-black">PIGGY PIGGY DUDE ON NIGHTMARE MODE!!!</a></div>
+                    <div CLASS="text-sm"><a href="#"
+                                            class="text-grey-dark hover:text-black">DashieGames
+                            <i class="fa fa-check-circle"></i></a></div>
+                    <span class="text-sm text-grey-dark">618K views &middot; 2 days ago</span>
+                </a>
+            </div>
+            <div>
+                <a href="#">
+                    <img src="{{ asset('img/youtube/thumbnail09.jpg') }}"
+                         alt="thumb"
+                         class="mb-1 transition-slow hover:opacity-75">
+                    <div class="text-sm mb-2"><a href="#"
+                                                 class="text-black">PIGGY PIGGY DUDE ON NIGHTMARE MODE!!!</a></div>
+                    <div CLASS="text-sm"><a href="#"
+                                            class="text-grey-dark hover:text-black">DashieGames
+                            <i class="fa fa-check-circle"></i></a></div>
+                    <span class="text-sm text-grey-dark">618K views &middot; 2 days ago</span>
+                </a>
+            </div>
+            <div>
+                <a href="#">
+                    <img src="{{ asset('img/youtube/thumbnail10.jpg') }}"
+                         alt="thumb"
+                         class="mb-1 transition-slow hover:opacity-75">
+                    <div class="text-sm mb-2"><a href="#"
+                                                 class="text-black">PIGGY PIGGY DUDE ON NIGHTMARE MODE!!!</a></div>
+                    <div CLASS="text-sm"><a href="#"
+                                            class="text-grey-dark hover:text-black">DashieGames
+                            <i class="fa fa-check-circle"></i></a></div>
+                    <span class="text-sm text-grey-dark">618K views &middot; 2 days ago</span>
+                </a>
+            </div>
+        </div>
+        <div class="mx-6 mb-6">
+            <a href="#"
+               class="text-sm text-grey-dark uppercase">Show More</a>
+        </div>
+
+        <div class="border-b border-solid mx-6"></div>
+    </div>
 </div>
 {{-- end youtube-body --}}
 </body>

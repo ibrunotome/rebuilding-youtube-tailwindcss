@@ -108,9 +108,34 @@
             <a href="#"><i class="fa fa-upload text-grey-dark mr-8"></i></a>
             <a href="#"><i class="fa fa-calendar text-grey-dark mr-8"></i></a>
             <a href="#"><i class="fa fa-bell text-grey-dark mr-8"></i></a>
-            <a href="#"><img src="{{ asset('img/youtube/avatar-top.jpg') }}" alt="avatar" class="rounded-full w-8"></a>
+            <a href="#"><img src="{{ asset('img/youtube/avatar-top.jpg') }}"
+                             alt="avatar"
+                             class="rounded-full w-8"></a>
         </div>
     </div>
 </div>
+{{-- end top-bar --}}
+<div class="youtube-body grid grid-columns-12">
+    <div class="left-sidebar col-span-2 py-6 bg-grey-custom min-h-screen">
+        <div class="mb-6">
+            <a href="#"
+               class="flex items-center py-3 px-6 mb-2 text-black transition-low hover:bg-grey">
+                <i class="fa fa-home fa-lg fa-fw text-red mr-4"></i>
+                <span class="font-semibold text-sm">Home</span>
+            </a>
+            <a href="#"
+               class="flex items-center py-3 px-6 mb-2 text-black transition-low hover:bg-grey">
+                <i class="fa fa-fire fa-lg fa-fw text-grey-dark mr-4"></i>
+                <span class="font-normal text-sm">Tending</span>
+            </a>
+            <a href="#"
+               class="flex items-center py-3 px-6 mb-2 text-black transition-low hover:bg-grey">
+                <i class="fa fa-list fa-lg fa-fw text-grey-dark mr-4"></i>
+                <span class="font-normal text-sm">Subscriptions</span>
+            </a>
+        </div>
+    </div>
+</div>
+{{-- end youtube-body --}}
 </body>
 </html>
